@@ -1,0 +1,5 @@
+note: For ROM wave data access the YMF278 (aka OPL4) relies on a separate Yamaha YRW801 2MB ROM chip. This 
+ROM is NOT bundled with VGMPlay and must be supplied separately for the benefit of those songs that 
+actually use it. In order for VGMPlay to use a respective separate ROM file it must be called "yrw801.rom"
+and be placed in the configured resource-folder.
+
